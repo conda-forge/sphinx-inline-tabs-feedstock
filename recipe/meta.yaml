@@ -1,5 +1,5 @@
 {% set name = "sphinx-inline-tabs" %}
-{% set version = "2022.1.2b11" %}
+{% set version = "2023.4.21" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/sphinx_inline_tabs-{{ version }}.tar.gz
-  sha256: afb9142772ec05ccb07f05d8181b518188fc55631b26ee803c694e812b3fdd73
+  sha256: 5df2f13f602c158f3f5f6c509e008aeada199a8c76d97ba3aa2822206683bebc
 
 build:
   number: 0
